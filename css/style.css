@@ -219,25 +219,25 @@ section {
 
 .btn-dark {
     color: #000;
-    border-color: #80bc00;
+    border-color: #132573;
 }
 
 .btn:hover {
-    background: #80bc00;
+    background: #132573;
     color: #fff;
-    border-color: #80bc00;
+    border-color: #132573;
 }
 
 .btn-1 {
-    background: #80BC00;
+    background: #132573;
     color: #fff;
-    border: 1px solid #80BC00;
+    border: 1px solid #132573;
 }
 
 .btn-1:hover {
     background: none;
     color: #000;
-    border: 1px solid #80bc00;
+    border: 1px solid #132573;
 }
 
 .btn-2 {
@@ -696,7 +696,7 @@ header nav .ownmenu li {
 }
 
 header nav li a:hover {
-    color: #fff;
+    color: #132573;
 }
 
 .active {
@@ -841,7 +841,7 @@ header .is-sticky .sticky {
 }
 
 .header-style-2 .top-bar {
-    background: #80bc00;
+    background: #132573;
    
 }
 
@@ -1862,19 +1862,19 @@ header .ownmenu .look-book .media-body a {
     margin: 0px;
     background: none;
     color: #000;
-    border-bottom: 2px solid #80bc00;
+    border-bottom: 2px solid #132573;
 }
 
 .new-arrival .nav-tabs li.active a:hover {
     border: none;
-    border-bottom: 2px solid #80bc00;
+    border-bottom: 2px solid #132573;
     color: #000;
 }
 
 .new-arrival .nav-tabs li a:hover {
     border: none;
     color: #000;
-    border-bottom: 2px solid #80bc00;
+    border-bottom: 2px solid #132573;
 }
 
 .new-arri-w-slide {}
@@ -2094,7 +2094,7 @@ header .ownmenu .look-book .media-body a {
 }
 
 .shades .btn {
-    border-color: #80BC00;
+    border-color: #132573;
     color: #000;
     margin-top: 30px;
     font-weight: bold;
@@ -2103,7 +2103,7 @@ header .ownmenu .look-book .media-body a {
 .shades .btn:hover {
     border-color: transparent;
     color: #fff;
-    background: #80BC00;
+    background: #132573;
 }
 
 /*===========================================
@@ -5812,7 +5812,7 @@ footer .flicker img {
     content: "\f056";
     font-family: 'FontAwesome';
     padding: 0px;
-    color: #80bc00;
+    color: #132573;
     border-radius: 50%;
     text-align: center;
     font-size: 16px;
@@ -6566,7 +6566,7 @@ footer .flicker img {
     letter-spacing: 0px;
     font-size: 12px;
     margin-top: 0px;
-    border: 1px solid #80bc00;
+    border: 1px solid #132573;
 }
 
 .shopping-cart li a {
